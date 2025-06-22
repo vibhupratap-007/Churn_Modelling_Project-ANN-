@@ -58,39 +58,40 @@ Predict whether a bank customer will **churn (exit)** using demographic and acco
 - Accuracy, Precision, Recall, F1-Score
 
 #### 🚀 Usage
-```bash
+
 streamlit run app.py
-📊 Project 2: Salary Prediction
-📌 Objective
+
+---
+
+### 📊 Project 2: Salary Prediction
+
+#### 📌 Objective
+
 Predict the salary of an individual based on features such as experience and domain.
 
-🔧 Model
+#### 🔧 Model
 Type: Regression (Feed-forward neural network)
 
 Framework: TensorFlow / Keras
 
-Install Requirements
+#### Install Requirements
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
-Run Streamlit Apps
 
-For Churn Prediction:
+#### Run Streamlit Apps
 
-bash
-Copy
-Edit
+##### For Churn Prediction:
+
 streamlit run app.py
-For Salary Prediction:
 
-bash
-Copy
-Edit
+#### For Salary Prediction:
+
 streamlit run streamlit_regression.py
 
-👨‍💻 Author
+---
+
+###👨‍💻 Author
+
 Vibhu Pratap
-GitHub: @yourusername
+GitHub: https://github.com/vibhupratap-007
 
