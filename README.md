@@ -12,21 +12,32 @@ Both projects include data preprocessing, model training, evaluation, and deploy
 ## 📂 Project Structure
 
 📦 root/
-─ Churn_Modelling.csv # Dataset for churn prediction
-─ model.h5 # Trained churn classification model
-─ regression_model.h5 # Trained salary regression model
-─ scaler.pkl # Scaler used for both models
-─ label_encoder_gender.pkl # Label encoder for gender
-─ onehot_encoder_geo.pkl # One-hot encoder for geography
-─ experiments.ipynb # Churn model development notebook
-─ hyperparametertuningann.ipynb # ANN hyperparameter tuning
-─ prediction.ipynb # Inference testing for churn model
-─ salaryregression.ipynb # Salary regression notebook
-─ app.py # Streamlit app for churn prediction
-─ streamlit_regression.py # Streamlit app for salary prediction
-─ requirements.txt # Required Python packages
-─ README.md # Project documentation
 
+─ Churn_Modelling.csv # Dataset for churn prediction
+
+─ model.h5 # Trained churn classification model
+
+─ regression_model.h5 # Trained salary regression model
+
+─ scaler.pkl # Scaler used for both models
+
+─ label_encoder_gender.pkl # Label encoder for gender
+
+─ onehot_encoder_geo.pkl # One-hot encoder for geography
+
+─ experiments.ipynb # Churn model development notebook
+
+─ hyperparametertuningann.ipynb # ANN hyperparameter tuning
+
+─ prediction.ipynb # Inference testing for churn model
+
+─ salaryregression.ipynb # Salary regression notebook
+
+─ app.py # Streamlit app for churn prediction
+
+─ streamlit_regression.py # Streamlit app for salary prediction
+
+─ requirements.txt # Required Python packages
 
 ---
 
