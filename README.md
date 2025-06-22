@@ -70,9 +70,9 @@ streamlit run app.py
 Predict the salary of an individual based on features such as experience and domain.
 
 #### 🔧 Model
-Type: Regression (Feed-forward neural network)
+- Type: Regression (Feed-forward neural network)
 
-Framework: TensorFlow / Keras
+- Framework: TensorFlow / Keras
 
 #### Install Requirements
 
