@@ -41,23 +41,23 @@ Both projects include data preprocessing, model training, evaluation, and deploy
 
 ---
 
-## 🧠 Project 1: Customer Churn Prediction
+### 🧠 Project 1: Customer Churn Prediction
 
-### 📌 Objective
+#### 📌 Objective
 Predict whether a bank customer will **churn (exit)** using demographic and account activity data.
 
-### 🔧 Model
+#### 🔧 Model
 - Type: ANN (Artificial Neural Network)
 - Layers: Dense (ReLU) + Dropout + Output (Sigmoid)
 - Framework: TensorFlow / Keras
 
-### 🗂 Features Used
+#### 🗂 Features Used
 - Credit score, Geography, Gender, Age, Tenure, Balance, etc.
 
-### 📈 Metrics
+#### 📈 Metrics
 - Accuracy, Precision, Recall, F1-Score
 
-### 🚀 Usage
+#### 🚀 Usage
 ```bash
 streamlit run app.py
 📊 Project 2: Salary Prediction
