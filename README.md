@@ -13,31 +13,31 @@ Both projects include data preprocessing, model training, evaluation, and deploy
 
 📦 root/
 
-─  Churn_Modelling.csv # Dataset for churn prediction
+- Churn_Modelling.csv # Dataset for churn prediction
 
-─  model.h5 # Trained churn classification model
+- model.h5 # Trained churn classification model
 
-─  regression_model.h5 # Trained salary regression model
+- regression_model.h5 # Trained salary regression model
 
-─  scaler.pkl # Scaler used for both models
+- scaler.pkl # Scaler used for both models
 
-─  label_encoder_gender.pkl # Label encoder for gender
+- label_encoder_gender.pkl # Label encoder for gender
 
-─  onehot_encoder_geo.pkl # One-hot encoder for geography
+- onehot_encoder_geo.pkl # One-hot encoder for geography
 
-─  experiments.ipynb # Churn model development notebook
+- experiments.ipynb # Churn model development notebook
 
-─  hyperparametertuningann.ipynb # ANN hyperparameter tuning
+- hyperparametertuningann.ipynb # ANN hyperparameter tuning
 
-─  prediction.ipynb # Inference testing for churn model
+- prediction.ipynb # Inference testing for churn model
 
-─  salaryregression.ipynb # Salary regression notebook
+- salaryregression.ipynb # Salary regression notebook
 
-─  app.py # Streamlit app for churn prediction
+- app.py # Streamlit app for churn prediction
 
-─  streamlit_regression.py # Streamlit app for salary prediction
+- streamlit_regression.py # Streamlit app for salary prediction
 
-─  requirements.txt # Required Python packages
+- requirements.txt # Required Python packages
 
 ---
 
