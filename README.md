@@ -90,8 +90,9 @@ streamlit run streamlit_regression.py
 
 ---
 
-###👨‍💻 Author
+### 👨‍💻 Author
 
 Vibhu Pratap
+
 GitHub: https://github.com/vibhupratap-007
 
